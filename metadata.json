@@ -1,0 +1,6 @@
+{
+  "name": "Smoked by Digão - Mockups de Site",
+  "description": "Mockups interativos de website para a marca de pitsmoke artesanal Smoked by Digão, do Chef Rodrigo Lopes em Brasília. Inclui variações visuais, paleta da marca, menu interativo e simulador de franquia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
